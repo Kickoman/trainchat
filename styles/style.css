@@ -1,0 +1,75 @@
+* {
+    font-family: serif;
+    font-size: 1.1em;
+}
+
+.centered {
+    position: fixed;
+    left: 50%;
+    margin-left: -50px;
+}
+
+.chatbox {
+    position: absolute;
+    width: 90%;
+    height: 80%;
+    /*margin-right: 5px;*/
+    /*margin-left: 5px;*/
+}
+
+.msgform {
+    position: fixed;
+    top: 91%;
+}
+
+.message {
+    font-family: serif;
+}
+
+.user0 {
+    font-style: oblique;
+    font-weight: 900;
+    color: red;
+}
+
+.user1 {
+    font-style: oblique;
+    font-weight: 900;
+    color: green;
+}
+
+.user2 {
+    font-style: oblique;
+    font-weight: 800;
+    color: blue;
+}
+
+.user3 {
+    font-style: oblique;
+    font-weight: 700;
+    color: #808000;
+}
+
+.user4 {
+    font-style: oblique;
+    font-weight: 600;
+    color: black;
+}
+
+.user5 {
+    font-style: oblique;
+    font-weight: 500;
+    color: orange;
+}
+
+.user6 {
+    font-style: oblique;
+    font-weight: 400;
+    color: brown;
+}
+
+.user7 {
+    font-style: oblique;
+    color: pink;
+    font-weight: 600;
+}
